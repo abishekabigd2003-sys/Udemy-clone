@@ -23,6 +23,4 @@ A basic Udemy-clone website built using only *HTML* and *CSS*. This project incl
 
 ## 🔧 How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/udemy-clone.git
+
