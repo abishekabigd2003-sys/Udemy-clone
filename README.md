@@ -21,6 +21,6 @@ A basic Udemy-clone website built using only *HTML* and *CSS*. This project incl
 - HTML5  
 - CSS3 (no frameworks)
 
-## 🔧 How to Use
+
 
 
